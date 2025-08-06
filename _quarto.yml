@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Hi, I'm Jiaxin(Jesse)"
   site-url: https://jiaxin-jesse-xue.github.io
-  favicon: misc/info/favicon.png
+  favicon: misc/info/icon.png
   repo-url: https://github.com/Jiaxin-Jesse-Xue/Jiaxin-Jesse-Xue.github.io
   repo-actions: [edit, issue]
   
