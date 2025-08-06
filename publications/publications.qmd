@@ -12,8 +12,8 @@ title: "Publications"
 
 **Journal**: *[Journal of Organizational Behavior](https://onlinelibrary.wiley.com/doi/10.1002/job.2874)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\JOB 2025.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\JOBsafety\image.png" style="width: 500px;" />
+<a href="misc\info\JOB 2025.pdf" target="_blank">
+ <img src="publications\JOBsafety\image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
