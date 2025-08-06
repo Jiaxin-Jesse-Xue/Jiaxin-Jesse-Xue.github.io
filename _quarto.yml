@@ -4,46 +4,44 @@ project:
   
 website:
   page-navigation: true
-  title: "Hello, I'm Chi"
-  site-url: https://chizapoth.github.io
-  favicon: misc/info/favicon.png
-  repo-url: https://github.com/chizapoth/chizapoth.github.io
+  title: "Hi, I'm Jiaxin(Jesse)"
+  site-url: https://jiaxin-jesse-xue.github.io
+  favicon: misc/info/image.png
+  repo-url: https://github.com/Jiaxin-Jesse-Xue/Jiaxin-Jesse-Xue.github.io
   repo-actions: [edit, issue]
   
-  page-footer: 
-    left: "&copy; Copyright 2024, Chi Zhang"
-    right: 
+  page-footer:
+    left: "© 2025 Jiaxin(Jesse) Xue"
+    right:
       - icon: github
-        href: https://github.com/chizapoth/chizapoth.github.io
+        href: https://github.com/Jiaxin-Jesse-Xue/Jiaxin-Jesse-Xue.github.io
+
 
   navbar: 
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Projects"
-        href: projects/projects.qmd
-      
+      - text: "Publications"
+        href: publications/publications.qmd
+
+      - text: "Conference Papers"
+        href: cpaper/cpaper.qmd
+
       - text: "Teaching"
         href: teaching/teaching.qmd
-        
-      - text: "R packages"
-        href: rpkg/rpkg.qmd
-           
-      - text: "Talks"
-        href: talks/talks.qmd
-
-      - text: "Blog/notes"
-        href: blog/blog.qmd
-        
+             
+      - text: "Wechat Posts"
+        href: post/post.qmd
+             
       - text: "About me"
         href: about_me.qmd
         
-      #- text: "CV"
-      #  href: misc/info/CV-CZ-2407.pdf
-
 
 format:
   html:
     theme: styles.scss
+    toc: true           
+    toc-position: right  
+    toc-depth: 3
 
 

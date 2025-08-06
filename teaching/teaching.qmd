@@ -1,53 +1,20 @@
 ---
 title: "Teaching"
-description: |
-  These are a few things I teach or develop. For course material related to the courses, please check the description for more details.
-listing:
-  - id: medstat
-    max-description-length: 500
-    image-height: 250px
-    fields: [title, description]
-    contents: 
-      - mf9130
-      - ern4110
-      - med3007
-    type: table
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
-    
-  - id: workshop
-    max-description-length: 500
-    image-height: 250px
-    fields: [title, description, type]
-    contents: 
-      - r_novice
-      - workshop_bioinf
-      - workshop_rladies_zurich
-    type: table
-    grid-item-border: false
-    sort-ui: false
-    filter-ui: false
+
 ---
 
-I started teaching introductory statistics at Faculty of Medicine, University of Oslo since early 2023. I aim to make basic data skills and statistics accessible to health researchers, by combining modern data science tools (R, quarto, version control) with hands-on practice in my class.
+## Teaching Assistant Experience
 
-In my free time I volunteer in the Carpentries workshops to teach Rstats to researchers and students at UiO.
+| Year(s)       | Course Title                              | Level              | Instructor       |
+|---------------|-------------------------------------------|--------------------|------------------|
+| 2025          | Compensation Management                   | Undergraduate      | Wen Chen       |
+| 2024          | Training and Development                  | Undergraduate      | Yuhui Li         |
+| 2024          | Career Planning                           | Undergraduate      | Yuhui Li         |
+| 2023          | Team and Individual Research              | Doctoral           | Zhen Wang     |
+| 2020, 2022    | Organizational Behavior                   | Master’s           | Yuhui Li         |
 
+## Instructor Experience
 
-## Statistics
+*Formal teaching experience as instructor will be added when available*.
 
-::: {#medstat}
-:::
-
-## Workshops
-
-::: {#workshop}
-:::
-
-## Guides and Cheatsheets
-
-| Title |   Description            |
-|:-----:|:------------------------:|
-| [ggplot2](https://github.com/chizapoth/chizapoth.github.io/blob/main/resources/lecture_ggplot.pdf) | Lecture notes for `ggplot2` at the Carpentries workshop, UiO|
-| [list of commands](https://ocbe-uio.github.io/teaching_mf9130e/lab/list_of_commands.html) | Quick reference list of R commands used in my statistics classes |
+&emsp;

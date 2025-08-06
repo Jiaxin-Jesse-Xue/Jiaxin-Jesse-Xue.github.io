@@ -1,35 +1,44 @@
 ---
-title: "Chi Zhang"
+title: "Jiaxin(Jesse) Xue"
 image: misc/info/photo.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
+  image-width: 10em
   image-shape: round
   links:
-    - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
-    - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
-    - icon: linkedin
-      text: Chi Zhang
-      href: https://www.linkedin.com/in/chizapoth/
+    - icon: envelope
+      text: jxxue@ruc.edu.cn
+      href: mailto:jxxue@ruc.edu.cn
+    - icon: fingerprint
+      text: ORCID
+      href: https://orcid.org/0000-0001-5478-1285
+    - icon: book
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Jiaxin-Xue-4
 ---
 
 ::: {#hero-heading}
 
-Hello! 
+**Hi There!**
 
-I am a data scientist at Roche.
+My name is Jiaxin Xue (薛嘉欣), also known as Jesse. 
 
-In a previous role, I worked at the Faculty of Medicine, University of Oslo. I'm mostly interested in **RWD (real-world data)**, such as hospital **Electronic Health Record** and large public health registry data. I develop [ggehr](https://chizapoth.github.io/ggehr/), a ggplot2 extension to visualizing EHR data.
+I am a fourth-year Ph.D. candidate in Human Resource Management at Renmin University of China. My research interests revolve around two fundamental questions in organizational life:
 
-In 2020-2022, I worked as part of the COVID emergency response at the [Norwegian Institute of Public Health](https://www.fhi.no/en/). I helped develop the open source real-time analysis and public health surveillance system, **Sykdomspulsen** (now [CSIDS](https://www.csids.no)). I am co-leading [CAMIS](https://psiaims.github.io/CAMIS/) working group. 
+- **Constructively**: How employees and leaders can interact more effectively to enhance productivity?  
+- **Critically**: What potential trade-offs and hidden costs may accompany such efficiency gains?
 
-As a part-time lecturer, I teach **statistics with R and Quarto** at Oslo Centre for Biostatistics and Epidemiology ([OCBE](https://www.med.uio.no/imb/english/research/centres/ocbe/)) and **R programming** at the [Carpentries workshops](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/) at UiO.
+More specifically, my work spans the areas of ***leadership***, ***time management***, ***emerging workplace trends***, and ***exploitation***. 
 
+My research has been published in the journals such as the *Journal of Organizational Behavior*, *Group & Organization Management*, and the *International Journal of Human-Computer Interaction*.
 
-I enjoy cooking and spending time in the mountains.
+I bring strong passion and persistence to my research, driven by a deep curiosity about how people work, lead, and adapt in evolving organizational contexts.
+
+Beyond academia, I served as Deputy HR Manager during the **Beijing 2022 Winter Olympics**, where I gained valuable practical experience in large-scale event organization and human resource coordination.
+
+A quote that resonates deeply with me comes from *The Doctrine of the Mean (中庸)*:
+
+> *"To love learning is to draw near to wisdom; To act with effort is to draw near to benevolence; To know shame is to draw near to courage (好学近乎知，力行近乎仁，知耻近乎勇)."*
+
 :::

@@ -1,0 +1,18 @@
+---
+title: "Conference Papers"
+---
+
+| Authors                         | Title                                              | Conference               | Location     | Date       | Notes          |
+|---------------------------------|----------------------------------------------------|--------------------------|--------------|------------|----------------|
+| **Jiaxin Xue**, Jinghao Zhang, Yuhui Li       | [The resource trade-off in temporal leadership: boosting team outcomes at the leader’s expense](https://journals.aom.org/doi/10.5465/AMPROC.2025.15636abstract)                         | 85th AOM    | Copenhagen, Denmark  | Aug 2025   |  |
+| Yuhui Li, **Jiaxin Xue**       | [Exploring the impact of generative ai usage on creative performance: The role of usage approach](https://journals.aom.org/doi/10.5465/AMPROC.2025.14791abstract)                         | 85th AOM    | Copenhagen, Denmark  | Aug 2025   |   |
+| **Jiaxin Xue**, Jinghao Zhang, Yuhui Li       | Combining actors and recipients: The effect of temporal leadership on leader’s and follower’s performance                         | 11th IACMR    | Xi’an, China  | Jun 2025   |   |
+| Yuting He, **Jiaxin Xue**, Wenxia Zhou, Yixiao Wang       | Dual-pathway effects of overqualification on feedback-seeking behaviors: Moderating role of peer overqualification                         | 11th IACMR    | Xi’an, China  | Jun 2025   |   |
+| Jinghao Zhang, Niannian Dong, **Jiaxin Xue**, Bibi Zhang       |  How and when leader vision communication benefits or hinders followers                         | 11th IACMR    | Xi’an, China  | Jun 2025   |   |
+| **Jiaxin Xue**, Jinghao Zhang, Yuhui Li       | [Unraveling the ‘double-edged sword’ effect of temporal leadership on followers’ temporal outcomes](https://journals.aom.org/doi/abs/10.5465/AMPROC.2024.35bp)                        | 84th AOM    | Chicago, USA  | Aug 2024   |Best Paper Nominee|
+| **Jiaxin Xue**, Jinghao Zhang, Yingxin Deng, Zongbo Li       | [Performance implications of gig workers’ reactions to daily paradoxical experiences](https://journals.aom.org/doi/abs/10.5465/AMPROC.2024.17666abstract)                 | 84th AOM    | Chicago, USA  | Aug 2024   | |
+| **Jiaxin Xue**, Jinghao Zhang, Yuhui Li       | [Leading from diversity: The team-level antecedents and consequences of team temporal leadership](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.13900abstract)                   | 83th AOM    | Boston, USA  | Aug 2023   | |
+| Jinghao Zhang, **Jiaxin Xue**, Yingxin Deng, Zongbo Li       | [To be (safe), or not to be (safe)? A daily exploration of why and when gig workers stay safe under customer demands](https://journals.aom.org/doi/10.5465/AMPROC.2023.12094abstract)               | 83th AOM    | Boston, USA  | Aug 2023   | |
+|**薛嘉欣**, 李育辉     | 探究生成式人工智能使用对创新绩效的影响                        | 11th IACMR    | Xi’an, China  | Jun 2025   | 最佳论文提名 |
+|**薛嘉欣**, 李育辉     | 数字化转型的微观基础: 数字化强度和数字化—业务整合度对员工变革信念和行为的交互影响                      | 中国社会心理学管理心理学专业委员会 2024 年学术年会    | Guilin, China  | Aug 2024   |  |
+|吴若蕾, 李宗波, **薛嘉欣**    | 工作不安全感对任务重塑与婚姻行为的双刃剑效应: 工作反刍与工作—家庭分割偏好的作用                 | 第19届中国管理学年会    | Suzhou, China  | Jun 2024   | 优秀论文 |
