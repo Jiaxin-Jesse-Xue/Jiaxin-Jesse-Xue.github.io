@@ -1,6 +1,6 @@
 ---
 title: "Jiaxin(Jesse) Xue"
-image: D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\photo.png
+image: misc/info/photo.png
 page-layout: article
 format: 
   html:

@@ -10,7 +10,7 @@ No promises, no preaching. Just small footprints along the way. I genuinely enjo
 ## WeChat QR Code
 
 <p>
-  <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\post\qrcode.jpg" width="200"/>
+  <img src="post/qrcode.jpg" width="200"/>
 </p>
 
 *Welcome to follow my WeChat official account "**一勺池问鹿**"*.

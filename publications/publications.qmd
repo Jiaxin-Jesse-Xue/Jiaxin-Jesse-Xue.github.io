@@ -12,8 +12,13 @@ title: "Publications"
 
 **Journal**: *[Journal of Organizational Behavior](https://onlinelibrary.wiley.com/doi/10.1002/job.2874)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\JOB 2025.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\JOBsafety\image.png" style="width: 500px;" />
+<<<<<<< HEAD
+<a href="misc/info/JOB 2025.pdf" target="_blank">
+ <img src="publications/JOBsafety/image.png" style="width: 500px;" />
+=======
+<a href="misc\info\JOB 2025.pdf" target="_blank">
+ <img src="publications\JOBsafety\image.png" style="width: 500px;" />
+>>>>>>> 9d20612126564825915d394adead242b63a78084
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
@@ -28,8 +33,8 @@ title: "Publications"
 
 **Journal**: *[Group & Organization Management](https://doi.org/10.1177/10596011251326978)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\GOM 2025.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\GOMsl\image.png" style="width: 500px;" />
+<a href="misc/info/GOM 2025.pdf" target="_blank">
+ <img src="publications/GOMsl/image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
@@ -44,8 +49,8 @@ title: "Publications"
 
 **Journal**: *[International Journal of Human–Computer Interaction](https://doi.org/10.1080/10447318.2025.2474460)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\IJHCI 2025.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\IJHCIai\image.png" style="width: 500px;" />
+<a href="misc/info/IJHCI 2025.pdf" target="_blank">
+ <img src="publications/IJHCIai/image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
@@ -60,8 +65,8 @@ title: "Publications"
 
 **Journal**: *[当代财经](https://doi.org/10.13676/j.cnki.cn36-1030/f.20250331.001)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\DDCJ 2025.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\DDCJAI\image.png" style="width: 500px;" />
+<a href="misc/info/DDCJ 2025.pdf" target="_blank">
+ <img src="publications/DDCJAI/image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
@@ -78,8 +83,8 @@ title: "Publications"
 
 **Journal**: *[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01408/full)*.
 
-<a href="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\misc\info\FIP 2020.pdf" target="_blank">
- <img src="D:\1-学术研究\Personal page\Jiaxin-Jesse-Xue.github.io\publications\FIPtransl\image.png" style="width: 500px;" />
+<a href="misc/info/FIP 2020.pdf" target="_blank">
+ <img src="publications/FIPtransl/image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
