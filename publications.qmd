@@ -6,7 +6,7 @@ title: "Publications"
 
 ### To be (safe), or not to be (safe)? A daily exploration of why and when gig workers stay safe under customer demands
 
-**Authorship**: *Jinghao Zhang\*, **Jiaxin Xue**\*, Yingxin Deng, Zongbo Li, Yuhui Li* ; \**euqal contribution*
+**Authorship**: *Jinghao Zhang\*, **Jiaxin Xue**\*, Yingxin Deng, Zongbo Li, Yuhui Li* ; \**equal contribution*
 
 **Abstract**: Gig workers in the food delivery industry constantly face life-threatening occupational safety risks. However, little scholarly attention has been paid to the hazards of this work that entail potential dangers in traffic situations. Drawing on paradox theory, we theorize a typical tension in the daily experiences of food delivery workers, the finance–safety paradox. We examine how this dilemma can be triggered by customer demands that could influence delivery workers' safety (i.e., safety behavior and driving speed) through altering their finance and safety concerns. Using the experience sampling method, we conducted a 14-day diary study with 117 food delivery workers (1430 observations) in China. The results indicate that daily customer demands increased workers' daily safety concern when workers perceived stronger algorithmic supervision and fewer algorithmic errors on the focal day. Higher daily safety concern resulted in increased daily safety behavior and lower daily driving speed, while higher daily finance concern enhanced daily driving speed. Our research identifies a key driver of safety risks for gig workers in the food delivery industry, elucidates the role of algorithms in their safety compliance, and broadens our knowledge of how they navigate the salient tension between financial precarity and safety risks.
 
