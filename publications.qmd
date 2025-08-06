@@ -12,13 +12,8 @@ title: "Publications"
 
 **Journal**: *[Journal of Organizational Behavior](https://onlinelibrary.wiley.com/doi/10.1002/job.2874)*.
 
-<<<<<<< HEAD
 <a href="misc/info/JOB 2025.pdf" target="_blank">
  <img src="publications/JOBsafety/image.png" style="width: 500px;" />
-=======
-<a href="misc\info\JOB 2025.pdf" target="_blank">
- <img src="publications\JOBsafety\image.png" style="width: 500px;" />
->>>>>>> 9d20612126564825915d394adead242b63a78084
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>

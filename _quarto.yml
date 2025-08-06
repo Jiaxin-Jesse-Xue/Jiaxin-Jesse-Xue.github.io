@@ -22,16 +22,16 @@ website:
     search: true
     right: 
       - text: "Publications"
-        href: publications/publications.qmd
+        href: publications.qmd
 
       - text: "Conference Papers"
-        href: cpaper/cpaper.qmd
+        href: cpaper.qmd
 
       - text: "Teaching"
-        href: teaching/teaching.qmd
+        href: teaching.qmd
              
       - text: "Wechat Posts"
-        href: post/post.qmd
+        href: post.qmd
              
       - text: "About me"
         href: about_me.qmd
