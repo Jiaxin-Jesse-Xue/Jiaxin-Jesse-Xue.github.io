@@ -30,7 +30,7 @@ website:
       - text: "Teaching"
         href: teaching.qmd
 
-      - text: "Social Service"
+      - text: "Services"
         href: service.qmd
 
       - text: "Wechat Posts"
