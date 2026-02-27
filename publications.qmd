@@ -11,8 +11,8 @@ title: "Publications"
 
 **Journal**: *[南开管理评论](https://link.cnki.net/urlid/12.1288.f.20260116.1724.002)*.
 
-<a href="misc/info/2025/JOB 2025.pdf" target="_blank">
- <img src="publications/2025/JOBsafety/image.png" style="width: 500px;" />
+<a href="misc\info\2026\NKR 2026.pdf" target="_blank">
+ <img src="publications/2026/NKR/image.png" style="width: 500px;" />
 </a>
 
 <sub><em>Click the image above to view the full article</em></sub>
