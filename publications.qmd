@@ -11,11 +11,11 @@ title: "Publications"
 
 **Journal**: *[Applied Psychology](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085)*.
 
-<a href="misc\info\2026\APIR 2026.pdf" target="_blank">
+<a>
  <img src="publications/2026/APIR/image.png" style="width: 500px;" />
 </a>
 
-<sub><em>Click the image above to view the full article</em></sub>
+<sub><em>https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085</em></sub>
 
 &emsp;
 
