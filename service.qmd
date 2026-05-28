@@ -5,6 +5,9 @@ title: "Services"
 
 ## Academic Services
 
+### Journal Reviewer
+Applied Psychology: An International Review.
+
 ### Conference Reviewer
 Academy of Management Annual Conference, OB Division (2024, 2025);
 Academy of Management Annual Conference, HR Division (2024);

@@ -21,6 +21,9 @@ website:
     background: "#A9CCE3"
     search: true
     right: 
+      - text: "About me"
+        href: about_me.qmd
+              
       - text: "Publications"
         href: publications.qmd
 
@@ -36,9 +39,7 @@ website:
       - text: "Wechat Posts"
         href: post.qmd
              
-      - text: "About me"
-        href: about_me.qmd
-        
+      
 
 format:
   html:
