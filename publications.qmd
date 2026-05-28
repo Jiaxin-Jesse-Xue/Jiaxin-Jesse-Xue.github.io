@@ -65,7 +65,7 @@ title: "Publications"
  <img src="publications/2025/JBEBLM/image.png" style="width: 500px;" />
 </a>
 
-<sub><em>*[doi/10.1002/job.2874](https://onlinelibrary.wiley.com/doi/10.1002/job.2874)*</em></sub>
+<sub><em>*[doi.org/10.1007/s10551-025-06150-2](https://link.springer.com/article/10.1007/s10551-025-06150-2)*</em></sub>
 
 &emsp;
 
@@ -132,6 +132,6 @@ title: "Publications"
  <img src="publications/2020/FIPtransl/image.png" style="width: 500px;" />
 </a>
 
-<sub><em>*[doi.org/10.3389/fpsyg.2020.01408/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01408/full)*</em></sub>
+<sub><em>*[doi.org/10.3389/fpsyg.2020.01408](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01408/full)*</em></sub>
 
 &emsp;

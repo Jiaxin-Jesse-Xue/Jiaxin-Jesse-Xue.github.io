@@ -64,21 +64,26 @@ Thank you for visiting my website. I hope our paths cross—through ideas, conve
 *(†equal contribution, ^corresponding author)*
 
 - **Leadership** 
+    
     Zhang J., Dong N., Zhao L., Xue J., & Hu J. (2025). Ups and downs in serving us: Servant leadership behavior variability weakens the benefit of servant leadership behavior. *Group & Organization Management*. [https://doi.org/10.1177/10596011251326978](https://doi.org/10.1177/10596011251326978)
 
 - **Gig work** 
+  
    Zhang J.†, Xue J. †, Deng Y., Li Z., & Li Y. (2025). To be (safe), or not to be (safe)? A daily exploration of why and when gig workers stay safe under customer demands. *Journal of Organizational Behavior*. [https://doi.org/10.1002/job.2874](https://doi.org/10.1002/job.2874)
 
 - **Human-AI interaction** 
+   
     Chen J., Xue J., Li Y., & Luo W. (2025). Impact of different employee-AI interaction: Instrumental vs. emotional support and gender differences. *International Journal of Human-Computer Interaction*. [https://doi.org/10.1080/10447318.2025.2474460](https://doi.org/10.1080/10447318.2025.2474460)
+
     李育辉, & 薛嘉欣^. (2026). 生成式人工智能的使用如何影响员工创新绩效？基于启发式-捷径式取向的视角. *南开管理评论*. 1-39. [https://link.cnki.net/urlid/12.1288.F.20260116.1724.002](https://link.cnki.net/urlid/12.1288.F.20260116.1724.002)
 
 - **Other topics** 
+   
     Luan Y., Zhang Z., Xue J.^, & Wang D. (2026). Exploring the reciprocal relationships between job demands, job resources, and workplace misconduct: A meta-analytic panel analysis. *Applied Psychology: An International Review*. [https://doi.org/10.1111/apps.70085](https://doi.org/10.1111/apps.70085)
 
 ## Academic Services
-- Journal Reviewer &#8729;  Applied Psychology: An International Review
-- Conference Reviewer &#8729;   AOM; IACMR
+- **Journal Reviewer** &#8729;  Applied Psychology: An International Review
+- **Conference Reviewer** &#8729;   AOM;  IACMR
 
 ## Honurs and Awards
 
