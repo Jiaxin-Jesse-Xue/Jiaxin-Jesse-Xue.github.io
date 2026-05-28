@@ -9,13 +9,13 @@ title: "Publications"
 
 **Abstract**: This study examines the reciprocal relationships between job demands, job resources, and workplace  misconduct using a meta-analytic cross-lagged analysis (k = 21, N = 14,897 for demands; k = 8, N = 7,934 for resources). Drawing on conservation of resources (COR) theory and the job demands–resources (JD–R) theory, we develop hypotheses regarding the reciprocal associations of demands and resources with misconduct. Results support these expectations: job demands and misconduct are reciprocally related, as well as job resources and misconduct. Moderation analyses partially support the moderating roles of demand type (hindrance vs. challenge demands; social vs. organizational demands) and country-level job resources in the associations between job demands and misconduct. Continuous-time analyses further indicate that reciprocal associations between job demands and workplace misconduct change over time. Theoretical and practical implications are discussed.
 
-**Journal**: *[Applied Psychology](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085)*.
+**Journal**: *Applied Psychology*.
 
 <a>
  <img src="publications/2026/APIR/image.png" style="width: 500px;" />
 </a>
 
-<sub><em>https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085</em></sub>
+<sub><em>*[https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085](https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/apps.70085)*</em></sub>
 
 &emsp;
 
