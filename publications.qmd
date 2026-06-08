@@ -3,6 +3,23 @@ title: "Publications"
 ---
 ## 2026
 
+### Blessing or curse? Understanding when and how coworkers negatively or positively react to leader gratitude expression
+
+**Authorship**: *Bo Lv, Jie Xiao, Ping Jin, Hongyu Xue, **Jiaxin Xue**, Chenghao Men* ; 
+
+**Abstract**: While previous studies have mainly adopted a dyadic lens to examine the influence of leader gratitude expression, our research shifts the focus to a third- party perspective to understand coworkers' dual reactions to it. Drawing on the appraisal theories of emotion, our research identifies coworker trait psychological entitlement as a key boundary condition influencing their appraisals and subsequent responses. Specifically, we propose that, when observing leader gratitude expression directed at focal employees, coworkers with higher levels of psychological entitlement are more likely to appraise the gratitude as undeserving, leading to feelings of envy and, consequently, social undermining. In contrast, coworkers with lower levels of psychological entitlement are 
+more likely to appraise the gratitude as deserving and feel admiration after observing it, thereby increasing affiliative citizenship behavior. We find support for our hypotheses in two field studies and a scenario- based experiment. Our research highlights the dual effects of leader gratitude expression within the broader social context involving coworkers, contributing to both the existing literature and managerial practice.
+
+**Journal**: *Journal of Organizational Behavior*.
+
+<a>
+ <img src="publications/2026/JOBimage.png" style="width: 500px;" />
+</a>
+
+<sub><em>*[doi.org/10.1002/job.70101](https://onlinelibrary.wiley.com/doi/10.1002/job.70101)*</em></sub>
+
+&emsp;
+
 ### Exploring the reciprocal relationships between job demands, job resources, and workplace misconduct: A meta-analytic panel analysis
 
 **Authorship**: *Yuxiang Luan, Zixu Zhang, **Jiaxin Xue**\*, Danyang Wang* ; \**corresponding author*
